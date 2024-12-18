@@ -33,7 +33,9 @@ Some teams will be missing their points tally in the league due to relegation to
 - Use matches in domestic cup competitions against Premier League opposition as outside reference to compare their levels and use that as factor to predict points.
 
 # Data Collection sources
-- Premier League website(Stats and Tables section): https://www.premierleague.com
+- Premier League website: https://www.premierleague.com
+      - Stats Hub: https://www.premierleague.com/stats
+      - Tables Hub: https://www.premierleague.com/tables
 - Sofascore: https://www.sofascore.com
 - Opta Analyst: https://www.google.com/search?client=safari&rls=en&q=opta+analyst&ie=UTF-8&oe=UTF-8
 - Fbref: https://fbref.com/en/comps/Big5/keepersadv/players/Big-5-European-Leagues-Stats
