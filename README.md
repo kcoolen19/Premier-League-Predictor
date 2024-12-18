@@ -26,11 +26,14 @@ Other potential variables researched:
 - Clean Sheets
 - Manager's statistics with previous teams
 
+# Data Pre-Processing
+Some teams will be missing their points tally in the league due to relegation to the lower division of English football hierarchy. Their points tally in the lower division league will be used as a reference normalized to the following factors:
+- The difficulty of the Premier League in the year they were absent
+- Analyze and predict their points based on teams that finish close to them in different seasons
+- Use matches in domestic cup competitions against Premier League opposition as outside reference to compare their levels and use that as factor to predict points.
+
 # Data Collection sources
 - Premier League website(Stats and Tables section): https://www.premierleague.com
 - Sofascore: https://www.sofascore.com
 - Opta Analyst: https://www.google.com/search?client=safari&rls=en&q=opta+analyst&ie=UTF-8&oe=UTF-8
 - Fbref: https://fbref.com/en/comps/Big5/keepersadv/players/Big-5-European-Leagues-Stats
-
-
-- 
