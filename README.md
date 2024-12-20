@@ -1,4 +1,4 @@
-# PROJECT DETAILS
+ # PROJECT DETAILS
 
 # PROJECT GOAL:
 Build a ML model to predict the points tally and ranking of the football teams in the Premier League for the current 2024/2025 season and beyond using Linear Regression. <br />
@@ -33,8 +33,8 @@ Some teams will be missing their points tally in the league due to relegation to
 - Use matches in domestic cup competitions against Premier League opposition as outside reference to compare their levels and use that as factor to predict points.
 
 # Data Collection sources
-- Premier League website: https://www.premierleague.com
-      - Stats Hub: https://www.premierleague.com/stats
+- Premier League website: https://www.premierleague.com <br />
+      - Stats Hub: https://www.premierleague.com/stats <br />
       - Tables Hub: https://www.premierleague.com/tables
 - Sofascore: https://www.sofascore.com
 - Opta Analyst: https://www.google.com/search?client=safari&rls=en&q=opta+analyst&ie=UTF-8&oe=UTF-8
