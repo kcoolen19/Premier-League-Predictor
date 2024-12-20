@@ -3,6 +3,9 @@
 # PROJECT GOAL:
 Build a ML model to predict the points tally and ranking of the football teams in the Premier League for the current 2024/2025 season and beyond using Linear Regression. <br />
 
+# Datasets
+The data from different seasons for the relevant variables is stored in .csv files. There will be different folders used to classify the information of the relevant variables.
+
 # Variables:
 The points tally of the Premier League teams from the past 8 seasons will be primarily used in getting to train and test the datasets. <br />
 
