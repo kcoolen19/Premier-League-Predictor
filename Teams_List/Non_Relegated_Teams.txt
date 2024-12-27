@@ -1,4 +1,5 @@
-This list contains the teams who have stayed in the Premier League for the past 8 seasons without getting relegated.
+This list contains the teams who have stayed in the Premier League without getting relegated for the past 8 seasons from the 16/17 season across to the 24/25 season.
+
 - Manchester United
 - Manchester City
 - Chelsea
@@ -6,4 +7,5 @@ This list contains the teams who have stayed in the Premier League for the past 
 - Arsenal
 - Tottenham Hotspur
 - Everton 
-- Southampton
+- West Ham United
+- Crystal Palace
