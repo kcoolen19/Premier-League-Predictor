@@ -1,0 +1,24 @@
+The list contains the teams that got promoted and relegated across the 8 seasons from the 16/17 season across to the 24/25 season:
+
+  - Burnley
+  - Middlesbrough
+  - Hull City
+  - Sunderland
+  - Newcastle United
+  - Brighton & Hove Albion
+  - Huddersfield Town
+  - Wolverhampton Wanderers
+  - Fulham 
+  - Cardiff City
+  - Norwich City
+  - Sheffield United
+  - Aston Villa
+  - Leeds United
+  - West Bromwich Albion
+  - Watford
+  - Brentford
+  - Nottingham Forest
+  - Bournemouth
+  - Leicester City
+  - Ipswich Town
+  - Southampton
