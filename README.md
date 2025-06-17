@@ -1,45 +1,56 @@
- # PROJECT DETAILS
+# ⚽ Premier League Points Predictor
 
-# PROJECT GOAL:
-Build a ML model to predict the points tally and ranking of the football teams in the Premier League for the current 2024/2025 season and beyond using Linear Regression. <br />
+## 🎯 Project Goal  
+Build a **machine learning model** to **predict the final points tally and ranking** of Premier League teams for the **2024/2025 season and beyond** using **Linear Regression**.
 
-# Datasets
-The data from different seasons for the relevant variables is stored in .csv files. There will be different folders used to classify the information of the relevant variables.
 
-# Variables:
-The points tally of the Premier League teams from the past 8 seasons will be primarily used in getting to train and test the datasets. <br />
 
-Main variables:
-- Number of wins
-- Number of losses
-- Number of draws
-- Goals scored
-- Goals conceded
-- Goal Difference
-- Expected Goals Scored(xG)
-- Expected Goals Conceded(xGA)
+## 📂 Datasets  
+The dataset includes multiple `.csv` files, each representing different seasons and variables. The files are organized into folders by variable type and source.
 
-Other potential variables researched: 
-- Injuries to players
-- Ball Possession in the game
-- Chances created
-    - Open Play
-    - Set Pieces
-- Chances conceded
-- Clean Sheets
-- Manager's statistics with previous teams
 
-# Data Pre-Processing
-Some teams will be missing their points tally in the league due to relegation to the lower division of English football hierarchy. Their points tally in the lower division league will be used as a reference normalized to the following factors:
-- The difficulty of the Premier League in the year they were absent
-- Analyze and predict their points based on teams that finish close to them in different seasons
-- Use matches in domestic cup competitions against Premier League opposition as outside reference to compare their levels and use that as factor to predict points.
 
-# Data Collection sources
-- Premier League website: https://www.premierleague.com <br />
-      - Stats Hub: https://www.premierleague.com/stats <br />
-      - Tables Hub: https://www.premierleague.com/tables
-- Sofascore: https://www.sofascore.com
-- Opta Analyst: https://www.google.com/search?client=safari&rls=en&q=opta+analyst&ie=UTF-8&oe=UTF-8
-- Fbref: https://fbref.com/en/comps/Big5/keepersadv/players/Big-5-European-Leagues-Stats
-- Understat: https://understat.com
+## 📊 Main Variables Used  
+The model will primarily use historical data from the **last 8 seasons** of the Premier League.
+
+- ✅ Wins  
+- ❌ Losses  
+- 🤝 Draws  
+- 🎯 Goals Scored  
+- 🛡️ Goals Conceded  
+- ➖ Goal Difference  
+- 📈 Expected Goals (xG)  
+- 📉 Expected Goals Against (xGA)
+
+
+
+## 🔍 Additional Variables Under Consideration  
+These features may improve predictive performance with further research:
+
+- 🚑 Injury records  
+- 🕹️ Ball possession %  
+- 🧠 Chances created (Open Play / Set Pieces)  
+- 🛑 Chances conceded  
+- 🧼 Clean sheets  
+- 🧑‍💼 Manager stats from previous teams
+
+
+
+## 🧹 Data Pre-Processing  
+For teams **relegated** in certain seasons:
+
+- Normalize lower-division performance by adjusting for Premier League difficulty that season  
+- Compare with similarly ranked teams across years  
+- Use **domestic cup** match data vs PL teams as proxy to assess performance level
+
+
+
+## 🌐 Data Sources  
+
+- [Premier League Official Site](https://www.premierleague.com)  
+  - [Stats Hub](https://www.premierleague.com/stats)  
+  - [Tables Hub](https://www.premierleague.com/tables)  
+- [Sofascore](https://www.sofascore.com)  
+- [Opta Analyst](https://www.google.com/search?client=safari&rls=en&q=opta+analyst&ie=UTF-8&oe=UTF-8)  
+- [Fbref](https://fbref.com/en/comps/Big5/keepersadv/players/Big-5-European-Leagues-Stats)  
+- [Understat](https://understat.com)
