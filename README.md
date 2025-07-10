@@ -3,6 +3,8 @@
 ## 🎯 Project Goal  
 Build a **machine learning model** to **predict the final points tally and ranking** of Premier League teams for the **2024/2025 season and beyond** using **Linear Regression**.
 
+![premier-league-logo-symbol-with-name-black-design-england-football-european-countries-football-teams-illustration-free-vector](https://github.com/user-attachments/assets/00b49ac7-1d44-490e-bc8e-6374757e7102)
+
 
 
 ## 📂 Datasets  
